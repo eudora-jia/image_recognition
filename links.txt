@@ -1,0 +1,16 @@
+Lion;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003009406536
+Princessa;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003005168018
+Proszek do pieczenia;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003000016369
+Kisiel zurawinowy;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003005133900
+Spaghetti Bolognese;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003007668653
+Orbit;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003120352178
+Winterfresh;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003120352201
+Herbata;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003120287520
+Sunbites;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003011807765
+Axe;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003120001266
+Airwaves;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003009420631
+Old Spice;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003120270125
+Lenor;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003010611424
+Pudliszki;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003009485005
+Snickers;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003010409755
+Vinegret;http://ezakupy.tesco.pl/pl-PL/ProductDetail/ProductDetail/2003006315411
